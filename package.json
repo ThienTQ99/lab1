@@ -1,0 +1,16 @@
+{
+  "name": "aboutus.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "aboutus.html",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
